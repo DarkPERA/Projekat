@@ -1,0 +1,34 @@
+C:\Users\petar\source\repos\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\petar\source\repos\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\petar\source\repos\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\petar\source\repos\Projekat\Projekat\obj\Debug\Projekat.csprojAssemblyReference.cache
+C:\Users\petar\source\repos\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\petar\source\repos\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+C:\Users\petar\source\repos\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+C:\Users\petar\source\repos\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\petar\source\repos\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\petar\source\repos\Projekat\Projekat\obj\Debug\Projekat.Klase.Form1.resources
+C:\Users\petar\source\repos\Projekat\Projekat\obj\Debug\Projekat.Klase.Forme.Form3.resources
+C:\Users\petar\source\repos\Projekat\Projekat\obj\Debug\Projekat.Klase.Forme.Form4.resources
+C:\Users\petar\source\repos\Projekat\Projekat\obj\Debug\Projekat.Klase.Forme.Form5.resources
+C:\Users\petar\source\repos\Projekat\Projekat\obj\Debug\Projekat.Klase.Forme.Form7.resources
+C:\Users\petar\source\repos\Projekat\Projekat\obj\Debug\Projekat.Klase.Forme.Form8.resources
+C:\Users\petar\source\repos\Projekat\Projekat\obj\Debug\Projekat.Klase.Forme.Form9.resources
+C:\Users\petar\source\repos\Projekat\Projekat\obj\Debug\Projekat.Klase.Forme.Form10.resources
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\obj\Debug\Projekat.csprojAssemblyReference.cache
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\obj\Debug\Projekat.Klase.Form1.resources
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\obj\Debug\Projekat.Klase.Forme.Form10.resources
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\obj\Debug\Projekat.Klase.Forme.Form3.resources
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\obj\Debug\Projekat.Klase.Forme.Form4.resources
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\obj\Debug\Projekat.Klase.Forme.Form5.resources
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\obj\Debug\Projekat.Klase.Forme.Form7.resources
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\obj\Debug\Projekat.Klase.Forme.Form8.resources
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\obj\Debug\Projekat.Klase.Forme.Form9.resources
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\petar\Desktop\Faks\1. LETNJI SEMESTAR\Programiranje\MojiProgrami\ProjekatLogini\Projekat\Projekat\obj\Debug\Projekat.pdb
