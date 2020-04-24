@@ -19,5 +19,7 @@
 Defaulti:
 
 Admin:	 Jancic[username]  janko123[password]
+
 Profesor: 	Marko[username] 	marko123[password]
+
 Student: 	Jovan[username] 	jova123[password]
