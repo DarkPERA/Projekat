@@ -1,20 +1,20 @@
 # Projekat
-У питању је програм који врши “Login\register” неког од корисника, углавном предвиђен за администраторе. 
-Администратори могу да претражују, додају и бришу студенте и професоре. 
-Једино главни администратор може да претражује, додаје и брише админе. 
-Уколико је улоговани корисник професор, добиће поруку поздрава, слично важи и за студенте. 
-Подаци се чувају на D партицији. Уколико та партиција не постоји, доће до грешке, тако је програм направљен. 
-Све остале фолдере за чување текстуалних датотека ће програм сам да направи. 
-Уколико дође до грешке у неким од текстуалних датотека, програм ће направити своје “default” чланове. 
-То се неће догодити током прве иницијализације, тек друге и надаље.
+U pitanju je program koji vrši “Login\register” nekog od korisnika, uglavnom predviđen za administratore. 
+Administratori mogu da pretražuju, dodaju i brišu studente i profesore. 
+Jedino glavni administrator može da pretražuje, dodaje i briše admine. 
+Ukoliko je ulogovani korisnik profesor, dobiće poruku pozdrava, slično važi i za studente. 
+Podaci se čuvaju na D particiji. Ukoliko ta particija ne postoji, doće do greške, tako je program napravljen. 
+Sve ostale foldere za čuvanje tekstualnih datoteka će program sam da napravi. 
+Ukoliko dođe do greške u nekim od tekstualnih datoteka, program će napraviti svoje “default” članove. 
+To se neće dogoditi tokom prve inicijalizacije, tek druge i nadalje.
 
-Сви подаце се чувају у текстуалним датотекама “username.txt” и у њиховим подразумеваним фолдерима. 
-Такође постоји датотека која садржи листу свих “username.txt” датотека на основу које се врши претрага. 
+Svi podace se čuvaju u tekstualnim datotekama “username.txt” i u njihovim podrazumevanim folderima. 
+Takođe postoji datoteka koja sadrži listu svih “username.txt” datoteka na osnovu koje se vrši pretraga. 
 
-Програм препознаје да ли је улоговани корисник админ или главни админ и на основу тога неке од опција главног менија искључује. 
+Program prepoznaje da li je ulogovani korisnik admin ili glavni admin i na osnovu toga neke od opcija glavnog menija isključuje. 
 
-Постоје разноразне заштите у програму, једино што се може погрешити јесте приликом уписа уколико на неке од поља се унесе уместо
-правог имена и презимена унесе лажно име и презиме или лажни факултет што програм не може да зна. 
+Postoje raznorazne zaštite u programu, jedino što se može pogrešiti jeste prilikom upisa ukoliko na neke od polja se unese umesto
+pravog imena i prezimena unese lažno ime i prezime ili lažni fakultet što program ne može da zna. 
 
 Defaulti:
 
